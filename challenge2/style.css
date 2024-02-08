@@ -3,3 +3,41 @@
     padding: 0;
     box-sizing: border-box;
 }
+
+.wrapper {
+    width: 80%;
+    max-width: 1200px;
+    margin: 0 auto;
+}
+
+.header {
+    background-color: #23424a;
+    color: white;
+    padding: 50px 0;
+}
+h1 {
+
+    margin-bottom: 16px;
+    
+}
+
+
+.header-text{
+    width: 50%;
+}
+
+.hero {
+    margin-top: 20px;
+}
+
+.hero-text {
+    width: 70%;
+}
+
+h2 {
+    margin-bottom: 16px;
+}
+
+p {
+    margin-bottom: 16px;
+}
